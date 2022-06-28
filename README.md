@@ -6,6 +6,7 @@ Utiliza la Libreria # *Instaloader*
 Documentación de Libreria Instaloader https://instaloader.github.io/basic-usage.html
 
 Crea archivo .csv con la información de:
+
 -type (identificador de post o comentario)
 - id (de usuario que publica)
 - usuario (de post o comentario)
